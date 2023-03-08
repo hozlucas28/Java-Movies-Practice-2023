@@ -1,9 +1,9 @@
 <h1 align="center">
-    React - Interest Calculator Practice [2023]
+    Java Movie Catalog Practice [2023]
 </h1>
 
 <h4 align="center">
-     Repository of a practice for <a href="https://www.udemy.com/course/programacion-desarrollo-web/" target="_blank">Web Development<a> course of <a href="https://www.udemy.com/" target="_blank">Udemy platform</a>.
+     Repository of a Java practice - <a href="https://www.udemy.com/course/programacion-desarrollo-web/" target="_blank">Web Development<a> course of <a href="https://www.udemy.com/" target="_blank">Udemy platform</a>.
 </h4>
 
 <p align="center">
