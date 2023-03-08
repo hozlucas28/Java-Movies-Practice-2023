@@ -23,14 +23,14 @@
 </p>
 
 <p align="center">
-    <strong>(click on image to watch a <a href="https://www.youtube.com/watch?v=aV9bT_IpHfc" target="_blank">video preview</a>)</strong>
+    <strong>(click on image to watch a video preview)</strong>
 </p>
 
 <h2>
     Summary
 </h2>
 <p>
-    This is a practice about an desktop app made with <a href="https://www.java.com/es/" target="_blank">Java</a> of a movie catalog. I used npm packages like: <a href="https://prettier.io/" target="_blank">Prettier</a> and <a href="https://github.com/typicode/husky" target="_blank">Husky</a> to make my code be more 'prettier'.
+    This is a practice about a desktop app made with <a href="https://www.java.com/es/" target="_blank">Java</a> of a movie catalog. I used npm packages like: <a href="https://prettier.io/" target="_blank">Prettier</a> and <a href="https://github.com/typicode/husky" target="_blank">Husky</a> to make my code be more 'prettier'.
 </p>
 
 <h2>
@@ -63,7 +63,7 @@
     Check out the <a href="https://github.com/hozlucas28/Java-Movie-Catalog-Practice-2023/releases" target="_blank">latest release</a> and download the .jar executable file. That's all, now make double click on it to test the desktop app.
 </p>
 <p>
-    If you want to download the source code clone the repository, install <a href="https://www.oracle.com/ar/java/technologies/downloads/" target="_blank">Java</a> and use <a href="https://www.eclipse.org/" target="_blank">Eclipse IDE</a>. That's all! Now open "Java-Movie-Catalog-Practice-2023" repository as project in the Eclipse IDE and press "Run" button to test your current java file.
+    If you want to download the source code clone the repository, install <a href="https://www.oracle.com/ar/java/technologies/downloads/" target="_blank">Java</a> and use <a href="https://www.eclipse.org/" target="_blank">Eclipse IDE</a>. Now open "Java-Movie-Catalog-Practice-2023" repository as project in the Eclipse IDE and press "Run" button to test your current java file.
 </p>
 
 <h2>
