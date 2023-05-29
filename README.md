@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-    <strong>(click on image to watch a video preview)</strong>
+    <strong>(watch a <a href="https://www.youtube.com/watch?v=t3F2loFmoFs" target="_blank">video preview</a>)</strong>
 </p>
 
 <h2>
