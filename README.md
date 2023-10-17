@@ -18,7 +18,7 @@
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=t3F2loFmoFs" target="_blank">
-        <img src="https://user-images.githubusercontent.com/88015479/223596865-76c72915-4a0b-4209-b665-ebf3b5762bfe.png" width="800">
+        <img src="./.github/preview.png" width="800">
     </a>
 </p>
 
